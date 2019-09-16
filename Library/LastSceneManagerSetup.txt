@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/UIAnd3D/UIAnd3D.unity
+- path: Assets/CircularUI/CircularUI.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

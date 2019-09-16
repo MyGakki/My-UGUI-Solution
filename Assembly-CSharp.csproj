@@ -65,6 +65,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\CircularUI\Scripts\CircularImage.cs" />
     <Compile Include="Assets\UIAnd3D\Scripts\ClickCubeByIPointClick.cs" />
     <Compile Include="Assets\UIAnd3D\Scripts\ClickCubeByMosueDown.cs" />
     <Compile Include="Assets\UIAnd3D\Scripts\ClickImage.cs" />

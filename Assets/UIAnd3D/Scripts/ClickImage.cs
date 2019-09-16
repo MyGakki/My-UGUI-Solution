@@ -35,6 +35,7 @@ public class ClickImage : MonoBehaviour, IPointerClickHandler
     {
         List<RaycastResult> list = new List<RaycastResult>();
         EventSystem.current.RaycastAll(eventData, list);
+
         foreach (RaycastResult result in list)
         {
             if(result.gameObject != gameObject)
